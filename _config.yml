@@ -7,8 +7,8 @@ version: 2
 
 # Personal info
 name: Simon Bäder
-title: Techie
-email: sb@sb.com
+title: Digital Native, stolzer Papa, im Grundsatz neugieriger Mensch.
+email: hallo@simonbaeder.ch
 website: https://simonbaeder.github.io
 
 # Dark Mode (true/false/never)
@@ -45,10 +45,12 @@ linkedin_username: simonbaeder
 # google_analytics: "UA-00000000-0"
 
 # About Section
-# about_title: About Me
+about_title: Über mich
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hallo, ich bin Simon. Wirtschaftsinformatiker mit Erfahrung in Leadership, Projektmanagement, E-Business, Prozess-Optimierung, uvm. Im Moment interessiere ich mich für die Themen Streaming, Agilität, Elektromobilität, Blockchain, Digitalisierung und Netzpolitik. In meiner Freizeit bin ich Papa, Bitcoin-Purist, Tesla- und LEGO-Fanboy ;)
+  Hallo, mein Name ist Simon.
+  Ich bin Wirtschaftsinformatiker mit Erfahrung in Leadership, Projektmanagement, E-Business, Prozess-Optimierung, uvm.
+  Im Moment interessiere ich mich für die Themen Bitcoin, Streaming, Agilität, Elektromobilität, Digitalisierung und Netzpolitik.
 
 content:
 
@@ -62,14 +64,15 @@ content:
         sub_title: Teamleiter ICT Standortsupport Winterthur
         caption: Juli 2019 - heute
         quote: >
-          Personelle und fachliche Verantwortung für 15 Mitarbeitende an 5 Standorten in Winterthur
+          Build, measure, learn, repeat.
         description: | # this will include new lines to allow paragraphs
+            Personelle und fachliche Verantwortung für 15 Mitarbeitende an 5 Standorten in Winterthur
             Neu-Positionierung des ICT Support als Shared Service innerhalb der agilen ICT (nach SAFe)
             Einführung von KPI im ICT Support
             Begleitung diverser Bauprojekte als ICT Baukoordinator
             Koordination der Aktivitäten im Bereich Webex als UC-Lösung
 
-  - title: Education # Title for the section
+  - title: Ausbildung # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
@@ -81,7 +84,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           [Weitere Informationen zum CAS](https://www.zhaw.ch/de/sml/weiterbildung/detail/kurs/cas-it-leadership-und-innovative-organisationen/)
 
-  - title: A Little More About Me
+  - title: Persönliches
     layout: text
     content: | # this will include new lines to allow paragraphs
       Alongside my interests in networks and software engineering some of my other interests and hobbies are:
