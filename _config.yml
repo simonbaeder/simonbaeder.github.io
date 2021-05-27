@@ -67,12 +67,16 @@ content:
           Build, measure, learn, repeat.
         description: | # this will include new lines to allow paragraphs
             Personelle und fachliche Verantwortung für 15 Mitarbeitende an 5 Standorten in Winterthur
+            
             Neu-Positionierung des ICT Support als Shared Service innerhalb der agilen ICT (nach SAFe)
+            
             Einführung von KPI im ICT Support
+            
             Begleitung diverser Bauprojekte als ICT Baukoordinator
+            
             Koordination der Aktivitäten im Bereich Webex als UC-Lösung
 
-  - title: Ausbildung # Title for the section
+  - title: Aus- und Weiterbildung # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
